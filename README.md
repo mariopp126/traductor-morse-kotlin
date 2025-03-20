@@ -1,2 +1,2 @@
 # kata-2-Kotlin
-Contara con dos programas realizados en kotlin.
+Programa de consola que traduce una palabra o frase a codigo morse mediante diccionario
